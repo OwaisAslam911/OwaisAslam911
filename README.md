@@ -18,7 +18,7 @@
 <a href="https://twitter.com/owaisaslam911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owaisaslam911" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/owais-aslam-861322291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owais-aslam-861322291" height="30" width="40" /></a>
 <a href="https://fb.com/owais.aslam.5249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owais.aslam.5249" height="30" width="40" /></a>
-<a href="https://instagram.com/owaisaslsm37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owaisaslam37" height="30" width="40" /></a>
+<a href="https://instagram.com/owaisaslam37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owaisaslam37" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
